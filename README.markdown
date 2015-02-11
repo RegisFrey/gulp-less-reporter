@@ -1,6 +1,8 @@
 gulp-less-reporter
 ==================
 
+[![Build Status](https://travis-ci.org/Kuniwak/gulp-less-reporter.svg)](https://travis-ci.org/Kuniwak/gulp-less-reporter)
+
 This plugin provide an error reporter for [gulp-less](https://github.com/plus3network/gulp-less).
 The reporter print like the following:
 

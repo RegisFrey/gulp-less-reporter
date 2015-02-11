@@ -1,0 +1,32 @@
+{
+  "name": "gulp-less-reporter",
+  "version": "0.0.0",
+  "description": "Error reporter for gulp-less",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "$(npm bin)/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kuniwak/gulp-less-reporter.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "less"
+  ],
+  "author": "Kuniwak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuniwak/gulp-less-reporter/issues"
+  },
+  "homepage": "https://github.com/Kuniwak/gulp-less-reporter",
+  "devDependencies": {
+    "gulp-util": "^3.0.3",
+    "sinon": "^1.12.2",
+    "mocha": "^2.1.0",
+    "gulp-less": "^2.0.2"
+  }
+}

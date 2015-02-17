@@ -17,5 +17,5 @@ module.exports = function gulpLessReporter(err) {
   ].join('');
 
   // Put the plugin name prefix to follow the gulp-way.
-  gutil.log('gulp-less: ' + err.message + '\n' + hint);
+  gutil.log('gulp-less: ' + gutil.colors.red(err.message) + '\n' + hint);
 };

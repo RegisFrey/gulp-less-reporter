@@ -26,7 +26,9 @@
   "devDependencies": {
     "gulp-util": "^3.0.3",
     "sinon": "^1.12.2",
-    "mocha": "^2.1.0",
-    "gulp-less": "^2.0.2"
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-less": "^2.0.3"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "gulp-less-reporter",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Error reporter for gulp-less",
   "main": "index.js",
   "directories": {
@@ -26,7 +26,9 @@
   "devDependencies": {
     "gulp-util": "^3.0.3",
     "sinon": "^1.12.2",
-    "mocha": "^2.1.0",
-    "gulp-less": "^2.0.2"
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-less": "^3.0.0"
   }
 }

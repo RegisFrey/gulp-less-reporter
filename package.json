@@ -29,6 +29,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "gulp-less": "^2.0.3"
+    "gulp-less": "^3.0.0"
   }
 }

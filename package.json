@@ -24,11 +24,13 @@
   },
   "homepage": "https://github.com/Kuniwak/gulp-less-reporter",
   "devDependencies": {
-    "gulp-util": "^3.0.3",
     "sinon": "^1.12.2",
     "mocha": "^2.1.0"
   },
   "dependencies": {
+    "gulp-util": "^3.0.3"
+  },
+  "peerDependencies": {
     "gulp-less": "^3.0.0"
   }
 }

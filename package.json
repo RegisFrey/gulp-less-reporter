@@ -1,6 +1,6 @@
 {
   "name": "gulp-less-reporter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Error reporter for gulp-less",
   "main": "index.js",
   "directories": {
